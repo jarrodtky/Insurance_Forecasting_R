@@ -76,6 +76,6 @@
 
 
 ## Credits
-- Took inspiration from [()](link)
+- Took inspiration from [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 
