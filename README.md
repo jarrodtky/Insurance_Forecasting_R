@@ -53,7 +53,7 @@
 **(1)** [**insurance.csv**](https://github.com/jarrodtky/Insurance_Forecasting_R/blob/b8d8c6eee9ba4e268996872a4b44941ae46ea135/insurance.csv)
 - Medical Cost Personal (Insurance) dataset file in CSV format.
 
-**(2)** [**Insurance_Forecasting_R_Results Folder**](https://github.com/jarrodtky/Insurance_Forecasting_R/tree/64b075520152f6f3000e23e38a733affee25ac4c/Insurance_Forecasting_R_Results) 
+**(2)** [**Insurance_Forecasting_R_Results Folder**](https://github.com/jarrodtky/Insurance_Forecasting_R/tree/main/Insurance_Forecasting_R_Results) 
 - Contains the main R notebook/file with implementation codes, results, and discussion for the project.
 
 
